@@ -6,5 +6,4 @@ Les fichiers à la racine hors dossiers contient les documents d'un corpus de te
     Bar, Francis. 1960. Le Genre burlesque en France au xviie siècle. Étude de style. Paris : Éditions D’Artrey
     Nédélec, Claudine. 2004. Les États et empires du burlesque. Paris : Honoré Champion
 
-Chaque fichier texte correspond à un document. Une version texte où tous les documents sont concaténés figure dans le fichier "Corpus_Contraste_Concatene.txt" Les métadonnées qui ont permis la constitution des corpus figurent dans les deux tableurs : "Corpus_metadata.ods" (une feuille par sous-corpus )et "Moreau_bib_mazarinades.ods" (ensemble de la bibliographie de Célestin Moreau avec une feuille par Tome/Supplément)
-
+Chaque fichier texte correspond à un document. 
